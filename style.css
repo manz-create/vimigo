@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(164, 212, 228);
+}
+.card-body{
+    background-color: lightcyan;
+    opacity: 0.8;
+}
+.card-body:hover{    
+    opacity: 1;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
